@@ -1,3 +1,5 @@
+package solid_principles.single_responsibility_principle;
+
 public class LoanService {
 
     public void getLoan(String loanType){

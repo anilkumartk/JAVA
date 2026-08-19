@@ -1,3 +1,4 @@
+package solid_principles.single_responsibility_principle;
 /*
 
 This class is responsible for all services. If we add or change it can mass up every thing and results in failure.
